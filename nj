@@ -1,0 +1,8 @@
+def ino(a,b):
+    sum=a+b
+    A=a-b
+    print(A)
+    print(sum)
+a=int(input("enter the number:"))
+b=int(input("enter the second number:"))
+ino(a,b)
